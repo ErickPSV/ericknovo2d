@@ -1,2 +1,1 @@
-# ericknovo2d
-ericknovo2d
+# Erick2Dnovo
